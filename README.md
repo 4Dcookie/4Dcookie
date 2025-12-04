@@ -28,9 +28,8 @@
 ## 🏆 활동 내역
 | 유형 | 내용 | 링크 |
 |------|------|------|
-| **Pull Request** | 인구 데이터 시각화 기능 추가 | [PR #36](https://github.com/Scanning-PKNU/korea-population/pull/36) |
-| **Pull Request** | CSV 데이터 추출 코드 개선 | [PR #1](https://github.com/Scanning-PKNU/korea-population/pull/1) |
-| **Issue** | 그래프 미출력 버그 보고 및 해결 제안 | [Issue #12](https://github.com/Scanning-PKNU/korea-population/issues/12) |
+| **Pull Request** | 인구 데이터 시각화 기능 웹 코드| [PR #45](https://github.com/Scanning-PKNU/korea-population/pull/45) |
+| **Pull Request** | CSV 데이터 추출 코드 개선 | [PR #3](https://github.com/Scanning-PKNU/korea-population/pull/3) |
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=4Dcookie&theme=react-dark)
 
