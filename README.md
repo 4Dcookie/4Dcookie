@@ -26,6 +26,11 @@
   - PR #36, #45 Fetch API로 CSV 데이터를 로드해서 시각화하는 웹 코드 작성
 
 ## 🏆 활동 내역
+| 유형 | 내용 | 링크 |
+|------|------|------|
+| **Pull Request** | 인구 데이터 시각화 기능 추가 | [PR #36](https://github.com/Scanning-PKNU/korea-population/pull/36) |
+| **Pull Request** | CSV 데이터 추출 코드 개선 | [PR #1](https://github.com/Scanning-PKNU/korea-population/pull/1) |
+| **Issue** | 그래프 미출력 버그 보고 및 해결 제안 | [Issue #12](https://github.com/Scanning-PKNU/korea-population/issues/12) |
+
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=4Dcookie&theme=react-dark)
-![GitHub Stats](https://github-readme-stats-git-master-4dcookie.vercel.app/api?username=4Dcookie&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-git-master-4dcookie.vercel.app/api/top-langs/?username=4Dcookie&layout=compact&theme=radical)
+
