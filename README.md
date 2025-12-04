@@ -18,7 +18,8 @@
 
 ## 🏆 활동 내역
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=4Dcookie&theme=react-dark)
-![GitHub Profile trophy](https://github-profile-trophy.vercel.app/?username=4Dcookie&theme=dracula&column=7)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4Dcookie&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4Dcookie&layout=compact&theme=radical)
 <!--
 **4Dcookie/4Dcookie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
